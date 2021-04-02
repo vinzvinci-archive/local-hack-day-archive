@@ -7,3 +7,4 @@
 `Repo`
 - <a href="https://github.com/vinzvinci/twilio-call-clone">Twilio API</a>
 - <a href="https://github.com/vinzvinci/Mini_ATM">Mini_ATM</a>
+- <a href="https://github.com/vinzvinci/Eddie-Bird">Eddie-Bird</a>
